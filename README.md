@@ -1,6 +1,14 @@
 # Rails Api Task
 
 ```
+
+Here is a [Link](https://youtu.be/AUkbb2kl9k4)
+
+for a Video Testing the project Functionality/Methods 
+
+```
+
+```
 1- Acess api  
 ```
 Using api url "http://localhost:3000/api/products"
